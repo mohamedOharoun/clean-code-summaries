@@ -1,3 +1,3 @@
 # clean-code-summaries
 
-##Chapter I - Variable names
+## Chapter I - Variable names
